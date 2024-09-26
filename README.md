@@ -15,3 +15,9 @@ API功能：
 
 7、自动按图片比例在打印区域水平居中、竖直居中
 ```
+
+```
+需要联系
+```
+<img src="https://github.com/user-attachments/assets/7f3f534d-09cf-41c9-8f62-4bc07958254c" alt="描述" width="300" height="300"/>
+
